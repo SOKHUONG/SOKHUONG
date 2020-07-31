@@ -1,5 +1,7 @@
  ![Codeware](https://www.codewars.com/users/USK/badges/large)
 
+[![HitCount](http://hits.dwyl.com/SOKHUONG/SOKHUONG.svg)](http://hits.dwyl.com/SOKHUONG/SOKHUONG)
+
 ## Get to know me 😊
 
 - 🔭 I’m currently working on ...zeal 🏚
