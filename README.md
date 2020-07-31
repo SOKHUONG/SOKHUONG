@@ -1,7 +1,6 @@
-### Get to know me 😊
+ ![Codeware](https://www.codewars.com/users/USK/badges/large)
 
-
-Here are some ideas to get you started:
+## Get to know me 😊
 
 - 🔭 I’m currently working on ...zeal 🏚
 - 🌱 I’m currently learning ...three.js
