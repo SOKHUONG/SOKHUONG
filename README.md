@@ -17,7 +17,7 @@ ___
 
 ![Codeware](https://www.codewars.com/users/USK/badges/large)
 
-## Language and Tools
+## Languages and Tools
 
 ![vscode][vscode]
 ![python][python]
