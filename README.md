@@ -27,7 +27,6 @@ ___
 ![tailwindcss][tailwindcss]
 ![vue][vue]
 ![nuxtjs][nuxtjs]
-![threejs][threejs]
 ![git][git]
 ![github][github]
 ![django][django]
@@ -60,19 +59,17 @@ ___
 
 
 [facebook]:     https://www.facebook.com/sokhuong.uon.50/
-[css3]:         ./static/icon/icons8-css3.svg
-[html5]:        ./static/icon/icons8-html5.svg
-[django]:       ./static/icon/icons8-django.svg
-[git]:          ./static/icon/icons8-git.svg
-[github]:       ./static/icon/icons8-github.svg
-[javascript]:   ./static/icon/icons8-javascript.svg
-[nodejs]:       ./static/icon/icons8-nodejs.svg
-[npm]:          ./static/icon/icons8-npm.svg
-[postgresql]:   ./static/icon/icons8-postgresql.svg
-[python]:       ./static/icon/icons8-python.svg
-[vscode]:       ./static/icon/icons8-vscode.svg
-[vue]:          ./static/icon/icons8-vue-js.svg
-[nuxtjs]:       ./static/icon/nuxt-square.svg
-[tailwindcss]:  ./static/icon/tailwindcss-icon.svg
-[tailwind]:     ./static/img/tailwindcss-iconsvg.png
-[threejs]:      ./static/img/threejs48.jpg
+[css3]:         https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-css3.svg
+[html5]:        https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-html5.svg
+[django]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-django.svg
+[git]:          https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-git.svg
+[github]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-github.svg
+[javascript]:   https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-javascript.svg
+[nodejs]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-nodejs.svg
+[npm]:          https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-npm.svg
+[postgresql]:   https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-postgresql.svg
+[python]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-python.svg
+[vscode]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-vscode.svg
+[vue]:          https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-vue-js.svg
+[nuxtjs]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/nuxt-square.svg
+[tailwindcss]:  https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/tailwindcss-icon.svg
