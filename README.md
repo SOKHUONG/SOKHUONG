@@ -47,16 +47,6 @@ ___
 </a>
 
 
-<a href="https://github.com/SOKHUONG/zeal">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SOKHUONG&repo=zeal&theme=radical" />
-</a>
- 
- 
-<a href="https://github.com/SOKHUONG/Stars-Collection-Django">
- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SOKHUONG&repo=Stars-Collection-Django&theme=radical" />
-</a>
-
-
 
 [facebook]:     https://www.facebook.com/sokhuong.uon.50/
 [css3]:         https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-css3.svg
