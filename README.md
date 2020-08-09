@@ -42,8 +42,8 @@ ___
 </a>
  
  
-<a href="https://github.com/SOKHUONG/VTours">
- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SOKHUONG&repo=VTours&theme=radical" />
+<a href="https://github.com/SOKHUONG/VTour">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SOKHUONG&repo=VTour&theme=radical" />
 </a>
 
 
