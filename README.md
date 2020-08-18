@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...three.js
 - 🤔 I’m looking for help with ...three.js
 - 💬 Ask me about ...Anything 😊
-- 📫 How to reach me: ...[Facebook][facebook]
+- 📫 How to reach me: ...[Facebook][facebook], discord_username: USK#2168
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ...Haha 😆
 
