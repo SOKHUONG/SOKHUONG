@@ -1,11 +1,11 @@
  ## Get to know me 😊
 
-- 🔭 I’m currently working on ...zeal 🏚
+- 🔭 I’m currently working on ...web development 🏚
 - 🌱 I’m currently learning ...three.js
 - 👯 I’m looking to collaborate on ...three.js
 - 🤔 I’m looking for help with ...three.js
 - 💬 Ask me about ...Anything 😊
-- 📫 How to reach me: ...[Facebook][facebook], discord_username: USK#2168
+- 📫 How to reach me: ...Discord: USK#2168
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ...Haha 😆
 
