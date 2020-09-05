@@ -15,7 +15,7 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOKHUONG&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=SOKHUONG&layout=compact&theme=tokyonight)
 
-![Codeware](https://www.codewars.com/users/USK/badges/large)
+[![Codeware](https://www.codewars.com/users/USK/badges/large)](https://www.codewars.com/users/USK)
 
 ## Languages and Tools
 
