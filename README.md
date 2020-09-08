@@ -1,12 +1,13 @@
  ## Get to know me 😊
 
+- 👨‍🎓 I'm a student of Kirirom Institute of Technology (KIT)
 - 🔭 I’m currently working on ...web development 🏚
-- 🌱 I’m currently learning ...three.js
+- 🌱 I’m currently learning ...tailwindcss
 - 👯 I’m looking to collaborate on ...three.js
 - 🤔 I’m looking for help with ...three.js
 - 💬 Ask me about ...Anything 😊
 - 📫 How to reach me: ...Discord: USK#2168
-- 😄 Pronouns: ...He
+- 😄 Pronouns: ...He / Him
 - ⚡ Fun fact: ...Haha 😆
 
 ___
