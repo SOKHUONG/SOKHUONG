@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I'm a student of Kirirom Institute of Technology (KIT)
 - 🔭 I’m currently working on ...web development, [Dsicord clone](https://github.com/SOKHUONG/discord-clone)
-- 🌱 I’m currently learning ...tailwindcss, Nuxt.js, Three.js
+- 🌱 I’m currently learning ...Tailwindcss, Nuxtjs, Vuejs
 - 👯 I’m looking to collaborate on ...three.js
 - 🤔 I’m looking for help with ...three.js
 - 💬 Ask me about ...Anything 😊
