@@ -37,11 +37,7 @@ ___
 
  
  ___
- 
- 
-<a href="https://github.com/SOKHUONG/SOKHUONG">
- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SOKHUONG&repo=SOKHUONG&theme=radical&show_icons=true" />
-</a>
+
 
 <a href="https://github.com/SOKHUONG/VTour">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SOKHUONG&repo=VTour&theme=radical" />
