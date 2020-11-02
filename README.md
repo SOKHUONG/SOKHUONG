@@ -1,12 +1,12 @@
  ## Get to know me 😊
 
 - 👨‍🎓 I'm a student of Kirirom Institute of Technology (KIT)
-- 🔭 I’m currently working on ... Three.js
-- 🌱 I’m currently learning ...Tailwindcss, Nuxtjs, Three.js
-- 👯 I’m looking to collaborate on ...three.js
-- 🤔 I’m looking for help with ...three.js
-- 💬 Ask me about ...Anything 😊
-- 📫 How to reach me: ...Discord: USK#2168
+- 🔭 I’m currently working on Web dev
+- 🌱 I’m currently learning Tailwindcss, Nuxtjs, Three.js, GLSL
+- 👯 I’m looking to collaborate on 🤔
+- 🤔 I’m looking for help with **Three.js** and **GLSL**
+- 💬 Ask me about Anything 😊
+- 📫 How to reach me: Discord: USK#2168
 ___
 
 ![SOKHUONG's github stats](https://github-readme-stats.vercel.app/api?username=SOKHUONG&theme=tokyonight&show_icons=true)
