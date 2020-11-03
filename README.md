@@ -8,6 +8,15 @@
 - 💬 Ask me about Anything 😊
 - 📫 How to reach me: Discord: USK#2168
 ___
+## Blogs
+
+<a href="https://dev.to/sokhuong">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="SOKHUONG UON's DEV Profile" height="30" width="30">
+</a>
+
+___
+
+## Status
 
 ![SOKHUONG's github stats](https://github-readme-stats.vercel.app/api?username=SOKHUONG&theme=tokyonight&show_icons=true)
 
