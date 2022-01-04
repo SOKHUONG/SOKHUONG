@@ -44,14 +44,15 @@ ___
  
  ___
 
-
-<a href="https://github.com/SOKHUONG/VTour">
- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SOKHUONG&repo=VTour&theme=radical" />
-</a>
-
 <a href="https://github.com/SOKHUONG/discord-clone">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SOKHUONG&repo=discord-clone&theme=radical" />
 </a>
+
+
+ ## My TouTube Videos
+ 
+[![The Boring Session #2: Pages Directoty and routing](https://img.youtube.com/vi/nvN0SCvLer8/0.jpg)](https://www.youtube.com/watch?v=nvN0SCvLer8)
+
 
 
 [facebook]:     https://www.facebook.com/sokhuong.uon.50/
